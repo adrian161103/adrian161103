@@ -20,13 +20,13 @@ Systems Engineer, Front-end Developer & Team Representative based in Buenos Aire
 - 🔭 Building UIs with React, TypeScript, javascript, Tailwind CSS, GSAP, Framer Motion, MongoDB and Postman 
 - 🌱 Learning Node.js, Express, and NoSQL databases
 
-
+<!-- 
 ## Stats
 
 ![App Screenshot](https://github-readme-stats.vercel.app/api?username=adrian161103&show_icons=true&theme=dark&count_private=true)
 ![App Screenshot](https://github-readme-streak-stats.herokuapp.com/?user=adrian161103&theme=dark)
 ![App Screenshot](https://github-readme-stats.vercel.app/api/top-langs/?username=adrian161103&layout=compact&theme=dark)
-
+-->
 
 ## Table of Technologies and Tools
 
